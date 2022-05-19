@@ -1,0 +1,13 @@
+body {
+    background-color: wheat;
+    font-family: "Helvetica", sans-serif;
+}
+
+.title {
+    font-weight: 700;
+    text-align: center;
+}
+
+.links {
+    font-size: 18px;
+}
